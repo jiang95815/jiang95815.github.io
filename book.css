@@ -1,0 +1,59 @@
+.box
+{
+    width: 300px;
+    height: 320px;
+    margin-top: 100px;
+    /*background-color: #24FF00;*/
+}
+#warp
+{
+    display: flex;
+
+    justify-content: space-around;
+}
+img
+{
+    width: 150px;
+    height: 150px;
+    margin: auto 75px;
+}
+.head
+{
+    font-size: 25px;
+    /*color: #E8AF3D;*/
+    font-weight: 300;
+
+    margin-left: 60px;
+}
+.box p
+{
+    font-size: 25px;
+
+    margin: 0 auto;
+
+    text-align: center;
+}
+span
+{
+    font-size: 18px;
+}
+a
+{
+    text-decoration: none;
+}
+a:link
+{
+    color: #1a9bef;
+}
+a:visited
+{
+    color: #746c6c;
+}
+a:active
+{
+    color: #b74b4b;
+}
+a:hover
+{
+    color: #b74b4b;
+}
